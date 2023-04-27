@@ -3,17 +3,17 @@
 <img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshkothawade07&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshkothawade07" /> </p>
 
-- 🔭 I’m currently working on **Admission Website**
+- 🔭 I’m currently working on **Resume Analyzer**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 All of my projects are available at [Data-Science-Repo](https://github.com/RushikeshKothawade07/Data-Science)
 
-- 💬 Ask me about **React, Data Structures and Algorithms**
+- 💬 Ask me about **Data Science, Data Structures and Algorithms**
 
 - 📫 How to reach me **rushikeshsk.work@gmail.com**
 
-- 📄 Know about my experiences [.](.)
+<!-- - 📄 Know about my experiences [.](.) -->
 
 - ⚡ Fun fact **I think I'm funny...**
 
