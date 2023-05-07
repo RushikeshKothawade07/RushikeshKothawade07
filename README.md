@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my ML projects are available at [Data-Science-Repo]([https://github.com/RushikeshKothawade07/Data-Science](https://rushikeshkothawade07-ml-projects-app-zeysmc.streamlit.app/))
+- 👨‍💻 All of my ML projects are available at [ML Projects](https://rushikeshkothawade07-ml-projects-app-zeysmc.streamlit.app/)
 
 - 💬 Ask me about **Data Science, Data Structures and Algorithms**
 
