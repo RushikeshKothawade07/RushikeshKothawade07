@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
-<h3 align="center">A passionate FrontEnd Developer an aspiring Data Scientist</h3>
+<h3 align="center">An aspiring Data Scientist</h3>
 <img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshkothawade07&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshkothawade07" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Data-Science-Repo](https://github.com/RushikeshKothawade07/Data-Science)
+- 👨‍💻 All of my ML projects are available at [Data-Science-Repo]([https://github.com/RushikeshKothawade07/Data-Science](https://rushikeshkothawade07-ml-projects-app-zeysmc.streamlit.app/))
 
 - 💬 Ask me about **Data Science, Data Structures and Algorithms**
 
