@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning Projects**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my ML projects are available at [ML Projects](https://rushikeshkothawade07-ml-projects-app-zeysmc.streamlit.app/)
 
